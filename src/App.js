@@ -17,7 +17,7 @@ const App = () => {
             </div>
             <p className='sad-frau p-4'>Inspired by Frau who ended up destroying three kernels in one day because he forgot
             the steps he had made to migrate from MacOs to Linux the first time.<br/>
-                <span className='italic'>Legends says he's still formatting the computer...</span>
+                <span className='italic'>Legend says he's still formatting the computer...</span>
             </p>
 		</div>
 	);
